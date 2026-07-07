@@ -4,8 +4,12 @@ This repository is used to develop the Data Analytics internship project for Cod
 Objective:
 This intership permit the students to hand on on Data Analysis and create different projects where practice to obtain information from data.
 
+Letter of acceptance:
+- [Letter](./Carta_de_confirmación.pdf)
+
 Instructions:
-- [Instructions](./CodeAlpha_Data-Analytics-Intership/Data Analytics Tasks & Instructions — CodeAlpha M1.pdf)
+- [Instructions](./Data_Analytics_Tasks_&_Instructions.pdf)
 
 Tasks links:
-- [Taks 1 ](./Task_1) - Web Scraping
+- [Taks 1](./Task_1) - Web Scraping
+- [Task 2](./Task_2) - Exploratory Data Analysis (EDA)
