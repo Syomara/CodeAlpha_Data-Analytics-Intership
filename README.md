@@ -13,6 +13,7 @@ Instructions:
 Tasks links:
 - [Taks 1](./Task_1) - Web Scraping
 - [Task 2](./Task_2) - Exploratory Data Analysis (EDA)
+- [Task_3](./Task_3) - Data Visualization
 
 
 # Español: Pasantía de Data Analytics - CodeAlpha
@@ -30,3 +31,4 @@ Instrucciones:
 Links de tareas:
 - [Tarea 1](./Task_1) - Web Scraping
 - [Tarea 2](./Task_2) - Exploratory Data Analysis (EDA)
+- [Tarea 3](./Task_3) - Data Visualization
