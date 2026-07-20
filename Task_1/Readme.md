@@ -1,4 +1,4 @@
-#English: Task 1 - Web Scraping
+# English: Task 1 - Web Scraping
 
 Objectives:
 - Use Python libraries like BeautifulSoup or Scrapy to extract data from websites.
