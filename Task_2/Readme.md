@@ -11,7 +11,7 @@
 
 We began by importing the CSV file created in the task 1. We assesed the size of the dataframe and some important information such as the name of the columns, the amount of data contains each and the type of data in each column. From this, we determinated the anomalies and hypotheses to test in this task. We stated by evaluating the missing data in the author column, then move on to the splitting and changes in the Price column. We also evaluated the information displayed in the availability column to determine if its formatting was correct. Additionally, we checked for duplicates in more than one column, as this could lead to confusion in subsequent analysis. Finally, we evaluated the formating and writing in the author column to ensure it was consistent acoss all books in the dataframe. In the end, we saved it as a CSV file in this GitHub repository.
 
-[Main Paige](./CodeAlpha_Data-Analytics-Intership.git)
+[Main Page](../readme.md)
 
 # Español: Task 2 - Exploratory Data Analysis (EDA).
 
